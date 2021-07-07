@@ -1,0 +1,7 @@
+{
+	"name": "PipelineGreenKevin",
+	"properties": {
+		"description": "Green pipeline within the Green branch for employees dataset by Kevin",
+		"annotations": []
+	}
+}
